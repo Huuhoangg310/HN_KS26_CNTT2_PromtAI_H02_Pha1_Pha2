@@ -3,7 +3,7 @@
 - **Mã đề:** 04
 - **Họ tên:Nguyễn Hữu Hoàng**
 - **Lớp:CNTT2**
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/Huuhoangg310/HN_KS26_CNTT2_PromtAI_H02_Pha1_Pha2
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
